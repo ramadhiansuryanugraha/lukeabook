@@ -53,9 +53,12 @@ Admin akan menjadi penjual yang akan menampilkan dan menjual buku kepada custome
 
 Manfaat dan harapan yang bisa didapat pada penggunaan website ini adalah:
 	
-Mempermudah customer dan admin untuk melakukan kontak jual beli buku.
-Diharapkan membangun dan meningkatkan literasi pembaca buku.
-Membantu para penulis/pemilik buku dalam menjual buku atau hasil karyanya.
-Membantu para pembeli/pencari buku untuk mencari buku yang diinginkan.
+-Mempermudah customer dan admin untuk melakukan kontak jual beli buku.
+
+-Diharapkan membangun dan meningkatkan literasi pembaca buku.
+
+-Membantu para penulis/pemilik buku dalam menjual buku atau hasil karyanya.
+
+-Membantu para pembeli/pencari buku untuk mencari buku yang diinginkan.
 	
 
