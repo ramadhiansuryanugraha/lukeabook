@@ -9,12 +9,12 @@ Boban Anderson (1313620021)
 Ramadhian Surya Nugraha (1313620035)
 
 
-Judul: 
+	Judul: 
 
 Website Jual Beli Buku.
 
 
-Latar Belakang Masalah:
+	Latar Belakang Masalah:
 
 Di era pandemi seperti sekarang ini orang-orang sulit untuk pergi mencari buku-buku yang disukai, banyak toko buku yang ditutup dikarenakan pandemi ini. Sementara itu, orang-orang juga kesulitan untuk mengetahui apakah buku yang disukai tersedia atau tidak.
  Selain itu, harga buku yang banyak disukai biasanya memiliki harga yang lebih tinggi ketika dijual di pasaran. Ini juga menyebabkan minat membaca dari orang-orang semakin menurun. Selain dari sisi pembaca, dari penjual buku juga mengalami masalah dikarenakan sepinya pengunjung yang datang ke toko, dan tidak semua orang yang ingin menjual buku tau tempat yang tepat untuk menjual. 
@@ -26,17 +26,17 @@ Literasi sendiri adalah kedalaman pengetahuan seseorang terhadap suatu subjek il
 Maka dari itu, diperlukan sebuah wadah untuk mempermudah para penjual dan pembeli buku untuk bisa saling berinteraksi satu sama lain untuk melakukan kontak jual beli. Dengan hal itu, diharapkan permasalahan yang telah dijelaskan dapat diselesaikan dengan baik.
 
 
-Solusi:
+	Solusi:
 
 Sebagaimana yang sudah dijelaskan di latar belakang masalah, kurangnya wadah bagi para pembaca buku untuk menjual dan membeli, membuat dibutuhkannya suatu wadah yang bersifat fleksibel, informatif, dan mudah digunakan untuk menjadi solusi atas permasalahan tersebut. Selain itu, dikarenakan rendahnya tingkat literasi Indonesia, sudah seharusnya kita memudahkan akses masyarakat untuk membaca buku. Oleh karena itu, website jual beli buku adalah salah satu solusi yang bisa digunakan. 
 
 
-Tujuan:
+	Tujuan:
 
 Tujuan dibuat website ini adalah untuk memudahkan para pembaca buku untuk membeli buku yang diinginkan oleh mereka. Sementara itu, penjual buku dapat dengan mudah bisa memberikan informasi tentang buku yang ingin mereka jual kepada pihak yang ingin membeli buku.
 
 
-Konsep Website:
+	Konsep Website:
 
 Website ini merupakan sebuah wadah jual beli bagi para penikmat buku yang akan saling berinteraksi satu sama lain untuk menjual dan mendapatkan buku yang diinginkan. Website ini ditargetkan kepada para penikmat buku yang ingin menjual, mencari, dan membeli buku yang ingin mereka dapatkan dengan harapan mempermudah mereka untuk melakukan kontak jual beli.
 
