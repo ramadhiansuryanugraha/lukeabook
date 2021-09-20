@@ -45,6 +45,7 @@ Di dalam website ini interaksi yang digunakan antara lain:
 Customer
 
 Customer akan menjadi konsumen yang akan membeli buku yang sudah ditampilkan oleh admin. Interaksi yang bisa dilakukan oleh customer adalah dengan melihat katalog buku-buku yang ada/telah ditampilkan oleh admin, bisa membaca deskripsi dari buku yang telah ditampilkan, dan membeli buku yang telah ditampilkan dengan mengontak nomor admin yang tertera pada halaman website
+
 Admin
 
 Admin akan menjadi penjual yang akan menampilkan dan menjual buku kepada customer. Interaksi yang bisa dilakukan oleh admin adalah menampilkan atau menghapus buku yang ingin dijual/ditampilkan kepada customer, memberikan atau menghapus deskripsi tentang buku yang ingin dijual/ditampilkan kepada customer, serta menampilkan kontak penjual untuk dilakukan kontak jual beli antara customer dan admin.
